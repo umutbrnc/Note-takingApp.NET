@@ -1,0 +1,12 @@
+C:\Users\chucky\source\repos\Intern_task_DT\bin\Debug\Intern_task_DT.exe.config
+C:\Users\chucky\source\repos\Intern_task_DT\bin\Debug\Intern_task_DT.exe
+C:\Users\chucky\source\repos\Intern_task_DT\bin\Debug\Intern_task_DT.pdb
+C:\Users\chucky\source\repos\Intern_task_DT\obj\Debug\Intern_task_DT.csproj.AssemblyReference.cache
+C:\Users\chucky\source\repos\Intern_task_DT\obj\Debug\Intern_task_DT.csproj.SuggestedBindingRedirects.cache
+C:\Users\chucky\source\repos\Intern_task_DT\obj\Debug\Intern_task_DT.Properties.Resources.resources
+C:\Users\chucky\source\repos\Intern_task_DT\obj\Debug\Intern_task_DT.csproj.GenerateResource.cache
+C:\Users\chucky\source\repos\Intern_task_DT\obj\Debug\Intern_task_DT.csproj.CoreCompileInputs.cache
+C:\Users\chucky\source\repos\Intern_task_DT\obj\Debug\Intern_task_DT.exe
+C:\Users\chucky\source\repos\Intern_task_DT\obj\Debug\Intern_task_DT.pdb
+C:\Users\chucky\source\repos\Intern_task_DT\obj\Debug\Intern_task_DT.myForm.resources
+C:\Users\chucky\source\repos\Intern_task_DT\obj\Debug\Intern_task_DT.ColorSelector.resources

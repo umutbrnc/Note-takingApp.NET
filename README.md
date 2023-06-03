@@ -1,6 +1,8 @@
 # Note-takingApp.NET
 A simple Note-taking Application using Microsoft.NET Framework(4.7.2) with C#.
 
+The application can be run using the executable file in bin/debug.
+
 This application has some tools for editing and formatting texts also this doing file operations.
 You can open and save files from the file menu, and exit the application.
 In the edit tab, there are operations such as cut, copy, paste, select all, undo and redo.
